@@ -3,18 +3,21 @@
     <head>
         <title>Project: Recipe book</title>
         <meta charset="utf-8">
+        
         <style>
         
         .step1 {color:rgb(247, 10, 188);}     
         .step2 {color:rgb(154, 5, 235);}
         .step3 {color:rgb(41, 5, 245);}
-        .step4 {color:rgb(10, 166, 250);}     .step5 {color:rgb(10, 250, 190);}
+        .step4 {color:rgb(10, 166, 250);}     
+        .step5 {color:rgb(10, 250, 190);}
         #BB {color:rgb(255, 230, 5);}
         #MK {color:rgb(219, 154, 3);}
         #CB {color:rgb(240, 5, 48);}
         
         #gourmet {color:rgb(245, 22, 245);}
         </style>
+        
     </head>
     <body>
        
